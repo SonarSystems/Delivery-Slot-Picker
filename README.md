@@ -8,7 +8,7 @@ This is a Delivery Slot Picker application that allows users to select available
 - [Technologies Used](#technologies-used)
 - [Improvements](#improvements)
 - [Assumptions](#assumptions)
-- [Commands](#command-to-generate-project)
+- [Commands](#command)
 
 ## Structure of Website
 
