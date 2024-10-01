@@ -57,6 +57,8 @@ DeliverySlotPicker/
 
 - The website is only handling the frontend logic of the delivery slot picker. No backend or database is assumed at this stage.
 
+- Second Friday meaning every other Friday and not the second Friday alone.
+
 ## Commands
 
 ### Command to Setup Project
